@@ -1,0 +1,12 @@
+{
+  "name": "game_o_life",
+  "short_description": "conway's game of life emulator",
+  "version": "0.0.1",
+  "author": "Terroid",
+  "email": "skandabhairava@gmail.com",
+  "author_github": "https://github.com/skandabhairava",
+  "entry_point": "game_o_life.py",
+  "working_directory": "src",
+  "github": "",
+  "license": "MIT"
+}
